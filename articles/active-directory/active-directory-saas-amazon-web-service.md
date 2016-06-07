@@ -219,7 +219,7 @@ The following screenshot shows an example for this.
 
      a. In the **Attribute Name** textbox, type **https://aws.amazon.com/SAML/Attributes/RoleSessionName**.
 
-     b. In the **Attribute Value** textbox, type **userprincipalname**.
+     b. In the **Attribute Value** textbox, type **user.userprincipalname**.
 
      c. Click **Complete** to close the **Add User Attribute** dialog.
 
